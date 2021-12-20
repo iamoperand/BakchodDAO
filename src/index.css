@@ -47,7 +47,7 @@ h1 {
 .mint-nft,
 .member-page {
   flex-direction: column;
-  width: 960px;
+  width: 1080px;
   max-width: calc(100% - 1rem);
   padding-left: 0.5rem;
   padding-right: 0.5rem;
